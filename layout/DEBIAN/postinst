@@ -1,0 +1,13 @@
+#!/bin/bash
+
+chown root:wheel /usr/bin/commandmoduled
+chmod +s /usr/bin/commandmoduled
+
+if [ ! -f /var/mobile/Library/Preferences/com.captinc.commandmodule.sh ]; then
+    touch /var/mobile/Library/Preferences/com.captinc.commandmodule.sh
+    chown mobile /var/mobile/Library/Preferences/com.captinc.commandmodule.sh
+    chmod 777 /var/mobile/Library/Preferences/com.captinc.commandmodule.sh
+    echo "#!/bin/bash" >> /var/mobile/Library/Preferences/com.captinc.commandmodule.sh
+fi
+
+exit 0

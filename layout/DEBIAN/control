@@ -1,0 +1,10 @@
+Package: com.captinc.commandmodule
+Name: CommandModule
+Version: 1.0
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport
+Author: Capt Inc <teamcaptinc@gmail.com>
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Control Center module to run a shell script
+Depiction: https://captinc.github.io/depictions/commandmodule/commandmodule.html

@@ -3,11 +3,11 @@ Control Center module to run a shell script
 
 Compatible with iOS 11.0+
 
-Repo: [https://captinc.github.io/](https://captinc.github.io/)
+Repo: [https://captinc.github.io](https://captinc.github.io)
 
 [Direct .deb download](https://github.com/captinc/CommandModule/releases/download/v1.0/com.captinc.commandmodule_1.0_iphoneos-arm.deb)
 
-[Reddit post](https://www.reddit.com/r/jailbreak/comments/exyfol/release_commandmodule_control_center_module_to/)
+[Reddit post](https://www.reddit.com/r/jailbreak/comments/exyfol/release_commandmodule_control_center_module_to)
 
 [Screenshots](https://captinc.github.io/depictions/commandmodule/screenshots.html)
 

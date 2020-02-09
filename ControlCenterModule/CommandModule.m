@@ -11,6 +11,6 @@
 }
 
 - (void)setSelected:(BOOL)selected {
-    [[NSNotificationCenter defaultCenter] postNotificationName:@"com.captinc.startCommandModule" object:nil];
+    [[NSNotificationCenter defaultCenter] postNotificationName:@"com.captinc.commandmodule.showCCAlert" object:nil];
 }
 @end

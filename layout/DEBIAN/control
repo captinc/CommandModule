@@ -1,6 +1,6 @@
 Package: com.captinc.commandmodule
 Name: CommandModule
-Version: 1.0.1
+Version: 1.0.2
 Depends: firmware (>=11.0), mobilesubstrate, com.opa334.ccsupport
 Author: Capt Inc <teamcaptinc@gmail.com>
 Maintainer: Capt Inc <teamcaptinc@gmail.com>

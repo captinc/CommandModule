@@ -8,16 +8,18 @@
 	<string>CommandModule</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.captinc.commandmodule</string>
+	<key>NSPrincipalClass</key>
+	<string>CommandModule</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
-	<key>CFBundleVersion</key>
-	<string>1</string>
 	<key>MinimumOSVersion</key>
 	<string>11.0</string>
 	<key>UIDeviceFamily</key>
@@ -25,8 +27,6 @@
 		<integer>1</integer>
 		<integer>2</integer>
 	</array>
-	<key>NSPrincipalClass</key>
-	<string>CommandModule</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>

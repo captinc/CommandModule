@@ -9,7 +9,7 @@
 %hook CCUIModuleCollectionViewController
 - (void)viewDidLoad {
     %orig;
-    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(startCommandModule:) name:@"com.captinc.commandmodule.showCCAlert" object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(startCommandModule:) name:@"com.captinc.commandmodule.run" object:nil];
 }
 
 - (void)dealloc {

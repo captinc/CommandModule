@@ -5,7 +5,7 @@ include $(THEOS)/makefiles/common.mk
 TWEAK_NAME = CommandModule
 CommandModule_CFLAGS = -fobjc-arc
 
-SUBPROJECTS += ControlCenterModule ControlCenterAlert commandmoduled
+SUBPROJECTS += commandmoduled ControlCenterModule SB
 include $(THEOS_MAKE_PATH)/aggregate.mk
 
 before-stage::
